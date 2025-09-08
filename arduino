@@ -1,0 +1,13 @@
+property-management-website/
+│── package.json
+│── vite.config.js
+│── postcss.config.js
+│── tailwind.config.js
+│── index.html
+│
+├── public/
+│
+└── src/
+    │── main.jsx
+    │── App.jsx
+    │── index.css
